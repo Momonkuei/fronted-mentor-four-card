@@ -1,5 +1,5 @@
 <template>
-	<div class="grid gap-[1.875rem] lg:grid-cols-3 mx-auto items-center">
+	<div class="grid gap-[1.875rem] xl:grid-cols-3 mx-auto items-center">
 		<card
 			title="Supervisor"
 			content="Monitors activity to identify project roadblocks"
